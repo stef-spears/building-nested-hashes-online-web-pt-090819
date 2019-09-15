@@ -1,4 +1,3 @@
-=begin
 def third_challenge
   epic_tragedy = {
    :montague => {
@@ -37,5 +36,3 @@ def third_challenge
 
   
 end
-
-=end
